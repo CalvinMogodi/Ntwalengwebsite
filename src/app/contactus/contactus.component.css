@@ -1,0 +1,15 @@
+.md-form {
+    position: relative;
+    margin-top: 1rem !important;
+    margin-bottom: 0rem !important;
+}
+
+.md-form.form-sm .prefix {
+    top: 1.1rem;
+    font-size: 15px !important;
+}
+
+.md-form textarea.md-textarea {
+    padding: unset !important;
+    overflow-y: hidden;
+}
